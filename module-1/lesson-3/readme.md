@@ -7,6 +7,7 @@
 - Complex data types (Object , Array) +
 
 - Constructor
+
 1. Number
 2. String
 3. Boolean
